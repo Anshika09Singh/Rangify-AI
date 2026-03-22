@@ -1,4 +1,4 @@
-# 👗 AI Personal Style Agent
+#  AI Personal Style Agent
 
 > *Not just fashion suggestions… but styling powered by AI + your personality.*
 
